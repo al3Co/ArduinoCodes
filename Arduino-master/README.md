@@ -1,2 +1,2 @@
 # Arduino
-Various Arduino project codes made available by me.
+Various Arduino project codes.
